@@ -25,7 +25,7 @@ function Footer() {
             </div>
             <div class="footer-bottom">
                 <p>English</p>
-                <p>Netflix India</p>
+                <p id='INDNET'>Netflix India</p>
             </div>
         </footer>
         </div>
